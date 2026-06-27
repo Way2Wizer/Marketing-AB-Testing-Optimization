@@ -39,5 +39,5 @@ Optimize Daily Spend: Shift ad spend away from Thursdays and Sundays. Allocate t
 Optimize Hourly Bidding: Implement dayparting (ad scheduling) to aggressively bid for ad placements during the high-intent windows of 2:00 PM - 4:00 PM and 8:00 PM - 9:00 PM, while turning off or lowering bids for overnight hours.
 
 📁 Files in this Repository
-1. Marketing_AB_Test_Analysis.ipynb: The complete Python code and statistical analysis.
+1. Marketing_AB_Test_(high level).ipynb: The complete Python code and statistical analysis.
 2. marketing_AB.csv: The dataset used for the experiment.
